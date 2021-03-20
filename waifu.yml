@@ -325,10 +325,7 @@
 # Himegoto
  Arikawa Hime:
   - Hime Goto
-  
-# Boku no Pico
- Pico:
-  - Boku no Pico
+ 
   
 # Yuru Yuri
  Toshinou Kyouko:
@@ -461,6 +458,8 @@
   - Sword Art Online
  Sinon:
   - Sword Art Online
+ Alice Zuberg:
+  - Sword Art Online
  Kirigaya Suguha:
   - Sword Art Online
  Lisbeth:
@@ -586,3 +585,6 @@
  Suzuya Juuzou:
   - Tokyo Ghoul
   
+# Code Geass
+ CC:
+  - Code Geass
